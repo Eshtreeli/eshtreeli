@@ -14,7 +14,7 @@ workflows:
         BUNDLE_ID: "com.eshtreeli.shtreeli"
         XCODE_WORKSPACE: "CodemagicSample.xcworkspace" # <-- Put the name of your Xcode workspace here
         XCODE_SCHEME: "CodemagicSample" # <-- Put the name of your Xcode scheme here
-        APP_STORE_APPLE_ID: 5KML3VPTN4
+        APP_STORE_APPLE_ID: 1493077967
       xcode: latest
       cocoapods: default
     scripts:

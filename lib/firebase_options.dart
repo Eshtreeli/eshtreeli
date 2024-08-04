@@ -73,7 +73,7 @@ class DefaultFirebaseOptions {
     messagingSenderId: '785056268965',
     projectId: 'e-shtreeli-260422',
     storageBucket: 'e-shtreeli-260422.appspot.com',
-    iosBundleId: 'com.example.eshtreeli_flutter',
+    iosBundleId: 'com.eshtreeli.shtreeli',
   );
 
   static const FirebaseOptions windows = FirebaseOptions(

@@ -1,4 +1,4 @@
-package com.example.eshtreeli_flutter
+package com.eshtreeli.shtreeli
 
 import io.flutter.embedding.android.FlutterActivity
 
